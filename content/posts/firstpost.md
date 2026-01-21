@@ -1,0 +1,101 @@
+---
+title: "本博客正式开张"
+date: 2026-01-20
+draft: false
+tags: ["本博客", "关于", "你好世界"]
+---
+
+名字"Hackerberg"是个奥地利地名，博客中文名叫“黑客境”，我做了简单的搜索，没有重名的网站。中文名有些中二傻X，不过我也没什么好的想法，就这么叫吧。另外，如果你对Hacker一词有些misunderstanding，可以阅读这篇文章：[The Word "Hacker"](https://paulgraham.com/gba.html)
+
+<!--more-->
+
+博客主要写科技相关的内容，Hacker News的这句："anything that gratifies one's intellectual curiosity" 也可以很好地概括本博的内容类型。
+
+我热衷写**观点类**文章。教程需要经常更新，加上多数人选择问AI，我也就没有动力写教程了。
+
+博客原则：
+
+- 随缘更新，不追求文章数量，所以不会有太多文章
+- 不会写太多教程
+- 不写周刊类型文章
+- 不写新闻这类保质期短的文章
+
+以上是我想的几点内容原则，遵守的话，可以避免水内容和过度同质化。
+
+博客永久域名是hackerberg.pages.dev，至于为何不用独立域名。我想保证匿名性，不留下任何付款记录可以最大程度保证我的匿名性。而且，我想要尽可能低成本，这样没有更新博客的压力，因为我没有付出任何经济成本。
+
+本博客在今天开张，“种一棵树最好的时间是十年前，其次是现在” 这句说烂的话在博客身上尤其适用。博客与其它类型的网站不同，博客没有替代性，每位博主都是不同的。写博客是可以不紧不慢做的事，没有竞争，也无法竞争。
+
+Email: [hackerberg@proton.me](mailto:hackerberg@proton.me)
+
+GitHub: [@hackerberg-blog](https://github.com/hackerberg-blog)
+
+Source: [hackerberg-blog/Hackerberg](https://github.com/hackerberg-blog/Hackerberg)
+
+PGP公钥:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=clGn
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
+
+
+
+
+
+
+
+
+
+
+
