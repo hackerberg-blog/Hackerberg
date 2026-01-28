@@ -7,6 +7,8 @@ tags: ["Internet", "Apple", "Advertising"]
 
 二十年前，几乎全部互联网流量都来自桌面浏览器，那时的dumbphone能看网页，但用的是WAP (Wireless Application Protocol)，使用体验极差。
 
+<!--more-->
+
 桌面浏览器是开放的平台，用户可以检视网页源代码，可以通过浏览器扩展修改网页中的元素。早在1996就有人利用浏览器扩展屏蔽广告，首个广告拦截器是一个Netscape Navigator插件。2002年，知名的"AdBlock"扩展在Firefox上发布。
 
 Google很早就确定其主要盈利模式是广告，AdWords在2000年上线。几乎所有知名Web 2.0网站都把广告作为主要盈利模式，MySpace、Facebook、Twitter、YouTube、Reddit etc. 问题是，这些网页广告很容易被屏蔽。即使是没有技术基础的人也知道如何安装广告拦截器。这是个Free-rider problem，如果大部分人都安装广告拦截器，怎样支付这些服务的服务器成本？
